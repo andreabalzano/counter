@@ -1,7 +1,6 @@
 <h1>counter</h1>
  
-<h2>Cos'è:</h2>
-Questa applicazione è JavaScript ci mette a disposizione due tasti "+" e "-". <br>
+Questa applicazione JavaScript ci mette a disposizione due tasti "+" e "-". <br>
 Attraverso questi due tasti l'utente può incrementare o diminuire il valore del contatore sulla home.
 <br>
 
